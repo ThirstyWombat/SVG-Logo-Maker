@@ -1,5 +1,7 @@
 # SVG-Logo-Maker
 
+![Screenshot 2023-10-31 125649](https://github.com/ThirstyWombat/SVG-Logo-Maker/assets/122827259/3b647b91-d5dd-49c2-91c8-a291b018ab36)
+
 ## Demo
 
 <a href="https://drive.google.com/file/d/1igzb1_-iLpdNo0ByEgoHohwDPl3VOBJ2/view">Demonstration Video</a>
